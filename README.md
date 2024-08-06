@@ -1,5 +1,5 @@
 # simon-game-project
-Introduction
+Simon Game Introduction
 - This project is an interactive Simon game built using jQuery, HTML, CSS, and JavaScript.
 - The Simon game basically challenges users to mimic a sequence of lights and sounds that grows longer with each successive level.
 
